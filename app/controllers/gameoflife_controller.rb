@@ -1,6 +1,5 @@
 #!/usr/bin/ruby
 require 'world.rb'
-puts "Start Conway's Game of Life"
 require 'set'
 
 class GameoflifeController < ApplicationController
